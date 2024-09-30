@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/react-gh-pages/static/css/main.e6c13ad2.css",
+    "main.js": "/react-gh-pages/static/js/main.fd3dfe9e.js",
+    "static/js/453.14f596f4.chunk.js": "/react-gh-pages/static/js/453.14f596f4.chunk.js",
+    "static/media/ess-app.png": "/react-gh-pages/static/media/ess-app.8163a1ecca4d1dfe32c2.png",
+    "static/media/sticky-notes.png": "/react-gh-pages/static/media/sticky-notes.576de904ee6527d57a59.png",
+    "static/media/Inter-Regular.ttf": "/react-gh-pages/static/media/Inter-Regular.9ca9ba81e9dcaa12b3a1.ttf",
+    "static/media/bird-identification-from-minimal-sample.png": "/react-gh-pages/static/media/bird-identification-from-minimal-sample.30c7972afbaed483c1dd.png",
+    "static/media/weather-app.png": "/react-gh-pages/static/media/weather-app.d8f8c2e4d2a9e52f96dd.png",
+    "static/media/clean_city.png": "/react-gh-pages/static/media/clean_city.a1264f7597697d82462d.png",
+    "static/media/resume.pdf": "/react-gh-pages/static/media/resume.63782b5396e05739d774.pdf",
+    "static/media/profile_picture.jpg": "/react-gh-pages/static/media/profile_picture.ba0efa070a8126bd6af4.jpg",
+    "index.html": "/react-gh-pages/index.html",
+    "main.e6c13ad2.css.map": "/react-gh-pages/static/css/main.e6c13ad2.css.map",
+    "main.fd3dfe9e.js.map": "/react-gh-pages/static/js/main.fd3dfe9e.js.map",
+    "453.14f596f4.chunk.js.map": "/react-gh-pages/static/js/453.14f596f4.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.fd3dfe9e.js"
+  ]
+}
